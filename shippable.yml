@@ -11,4 +11,3 @@ before_install:
 install:
 	- npm install
 	
-archive: true
